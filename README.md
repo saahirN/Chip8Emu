@@ -1,2 +1,2 @@
 # Chip8Emu
-Chip8 Emulator
+A Chip8 Emulator made in Rust
